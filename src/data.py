@@ -15,6 +15,7 @@ new_words = {
     'overvalued': -3.0,
     'undervalued': 3.0,
     'buy': 4.0,
+    'expensive': -1.0,
     'sell': -4.0,
     'gone': -1.0,
     'gtfo': -1.7,
